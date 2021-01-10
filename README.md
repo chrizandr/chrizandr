@@ -1,25 +1,6 @@
 ### Hi there 👋
+<p align='center'>
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=chrizandr&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chris's Github Stats"> 
+  <img align='center' height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrizandr&hide_title=true&layout=compact&bg_color=0000&text_color=2f80ed">
+</p>
 
-<!--
-**Borda/Borda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Jirka's github stats](https://github-readme-stats.vercel.app/api?username=chrizandr&show_icons=true&count_private=true)
-
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borda&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Sourcerer](https://sourcerer.io/icons/logo-sharing.svg)](https://sourcerer.io/borda)
--->
